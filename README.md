@@ -1,4 +1,4 @@
-Achtung!
+Achtung! attention! 注意！
 
 
 Before booting with this EFI, you must finish modifying your BIOS!!!!!
