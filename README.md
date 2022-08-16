@@ -1,3 +1,10 @@
+Achtung!
+
+
+Before booting with this EFI, you must finish modifying your BIOS!!!!!
+If not, you will get in many troubles!!!!!
+
+
 # Xiaomi-air-13.3-2018（MX150）-macos-efi
 I mixed the efi for XiaoMi pro laptop from Daliansky and the efi for XiaoMi air laptop from Johnnync13.
 And I fixed some problems about bluetooth, sound and headphone jack by using proper kernel extensions.
